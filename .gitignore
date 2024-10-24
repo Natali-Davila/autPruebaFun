@@ -1,0 +1,58 @@
+# Sistema de Archivos
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de IDE
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Archivos de entorno de Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.pdb
+*.egg-info/
+
+# Archivos de entorno de Conda
+.condarc
+.conda/
+envs/
+pkgs/
+
+# Archivos de sistema
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Directorios comunes que no deben incluirse
+*.cache/
+*.gradle/
+*.m2/
+*.nbi/
+*.p2/
+*.ipynb_checkpoints/
+*.jupyter/
+*.keras/
+*.matplotlib/
+*.studio/
+
+# Otros archivos a ignorar
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+*.idea/
+*.vscode/
+*.project
+*.classpath
+*.metadata
+*.iml
+*.settings/
+*.classpath
+*.project
+*.metadata
